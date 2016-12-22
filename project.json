@@ -1,0 +1,14 @@
+{
+    "title":"proj3_companion",
+    "description":"This template builds a companion app to the pet feeder device.",
+    "id":"companion.app",
+    "tags":[
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main"
+    },
+    "iap140":{
+        "main":"main"
+    }
+}
